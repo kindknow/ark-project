@@ -45,7 +45,7 @@ async fn main() -> Result<()> {
     Ok(())
 }
 
-// Default event hanlder.
+// Default event handler.
 struct DefaultEventHandler;
 
 impl DefaultEventHandler {
